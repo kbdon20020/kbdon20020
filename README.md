@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @kbdon20020
-- 👀 I’m interested in ... gameing...codeing
-- 🌱 I’m currently learning ... btech 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... gaming...code...Java...Python...C...html 
+- 🌱 I’m currently learning ... B-Tech 
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---
-kbdon20020/kbdon20020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
